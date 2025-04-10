@@ -1,2 +1,2 @@
-# Decision_tree
-关于决策树算法的初步使用
+# Machine_leaning
+此项目用来记录课程上的机器学习项目代码，以此作仓库
